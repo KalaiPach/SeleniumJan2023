@@ -19,9 +19,7 @@ public class program01 {
 		driver.findElement(By.xpath("//div[@id='msdd']")).click();
 		driver.findElement(By.xpath("//input[@placeholder='First Name']")).clear();
 		driver.findElement(By.xpath("//input[@type='checkbox' and @value='Cricket']")).click();
-		
-
-		
+				
 	}
 
 }
