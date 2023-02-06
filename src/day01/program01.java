@@ -15,7 +15,7 @@ public class program01 {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 		System.out.println(driver.getClass());
-		
+		//System.out.println(driver.getPageSource());
 
 	}
 
