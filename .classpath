@@ -7,5 +7,7 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="Libraries/selenium-server-4.8.0.jar"/>
+	<classpathentry kind="lib" path="Libraries/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="Libraries/ashot-1.5.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
